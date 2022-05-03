@@ -37,7 +37,7 @@ with open("zones.csv",'rt') as f:
         zone_dict=row
 
 # Add print statements to setup output
-print("Syed, Sohaib, A20439074 soltuion:") 
+
 print("Initial state:", initial)
 print("Minimum number of parks:", num_parks)
 print()

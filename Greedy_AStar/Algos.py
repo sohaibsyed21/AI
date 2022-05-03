@@ -4,7 +4,7 @@ import timeit
 import csv
 
 from numpy import average
-from NodeClass_A20439074 import Node
+from NodeClass import Node
 
 numberOfArgumentsPassedFromCommandLine = len(sys.argv)
 initial=sys.argv[1]

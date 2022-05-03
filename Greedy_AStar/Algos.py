@@ -30,7 +30,7 @@ with open('straightline.csv', 'rt') as s:
         del row['STATE']
         straight_dict[state] = dict(row)
 
-print("Syed, Sohaib, A20439074 soltuion:")
+
 print("Initial state:", initial)
 print("Goal state:", goal)
 print()
